@@ -9,7 +9,7 @@ import java.awt.event.ActionEvent;
 public class DrawChoiceFrame extends JFrame {
 	private DrawChoicePanel dcp;
 	public void setupGUI() {
-		setTitle("Draw Choice Frame V1.0");
+		setTitle("Draw Choice Frame V2.0");
 		setBounds(100,100,300,300);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		Container c = getContentPane();
